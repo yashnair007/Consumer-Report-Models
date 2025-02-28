@@ -1,6 +1,9 @@
 # Consumer-Report-Models
 
+All the outputs are visible in the Notebook itself.
+
 Overview
+
 This project performs text classification on the Consumer Complaint Database provided by the U.S. Consumer Financial Protection Bureau (CFPB). The goal is to classify consumer complaints into the following categories:
 
 0 - Credit reporting, repair, or other
